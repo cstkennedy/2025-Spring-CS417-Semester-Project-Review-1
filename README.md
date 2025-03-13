@@ -1,7 +1,6 @@
 # Overview
 
-This is the code generated as part of our Semester Project Review on 12
-November.
+This is the code generated as part of the Semester Project Review.
 
 
 # Use of Code
@@ -14,4 +13,4 @@ code for use in your Semester Project.
 
 If you would prefer not to work with Git and GitHub... you can download it as a
 [zip
-file.](https://github.com/cstkennedy/2024-Fall-CS417-Semester-Project-Review-1/archive/refs/heads/main.zip)
+file.](https://github.com/cstkennedy/2025-Spring-CS417-Semester-Project-Review-1/archive/refs/heads/main.zip)

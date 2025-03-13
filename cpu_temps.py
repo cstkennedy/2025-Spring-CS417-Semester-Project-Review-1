@@ -59,7 +59,7 @@ def main():
     # Handle input and preprocssing
     # ---------------------------------------------------------------------------
     with open(temperature_filename, "r") as temps_file:
-        times, raw_core_data = parse_raw_temps_as_ndarray(temps_file)
+        _ = parse_raw_temps(temps_file)
 
     # ---------------------------------------------------------------------------
     # Process each core and output the results
